@@ -1,0 +1,26 @@
+{
+  "name": "cholasresearch",
+  "version": "1.0.0",
+  "description": "research about cholas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suresh1791/cholasresearch.git"
+  },
+  "author": "Suresh and Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suresh1791/cholasresearch/issues"
+  },
+  "homepage": "https://github.com/suresh1791/cholasresearch#readme",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "method-override": "^2.1.3",
+    "mongoose": "^4.5.8",
+    "morgan": "^1.1.1"
+  }
+}
